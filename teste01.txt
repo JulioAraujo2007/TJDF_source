@@ -1,0 +1,32 @@
+100
+30
+5 Birnin S'Yan
+10 Birnin Zana
+14 K'pur
+18 L'pur
+23 Wakanda Norte
+27 Wakanda Sul
+32 Jabari
+36 Mena Ngai
+40 Hekima
+45 Kyanda
+50 Nyoni
+56 Mbaku
+61 N'Jobu
+67 Ramonda
+72 T'Chaka
+78 Shuri
+83 Okoye
+88 Nakia
+93 Zawavari
+97 N'Jadaka
+3 São Paulo
+7 Rio de Janeiro
+12 Belo Horizonte
+20 Brasília
+25 Salvador
+30 Recife
+42 Curitiba
+48 Fortaleza
+53 Manaus
+65 Porto Alegre
